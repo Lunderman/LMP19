@@ -1,5 +1,3 @@
-# LMP19
-
 * ./LMP19 contains each algorithm
 * ./examples contains Jupyter notebooks containing basic implementations of these algorithms
 
